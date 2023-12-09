@@ -57,7 +57,7 @@ body {
     gap:40px;
 }
 
-.footer-info p, .topic-subtitle {
+.footer-info p, .topic-subtitle, .footer-list-title {
     font-family:Arial, Helvetica, sans-serif;
 }
 
