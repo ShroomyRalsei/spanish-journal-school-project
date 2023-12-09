@@ -5,3 +5,8 @@ This project uses Listin Diario (https://listindiario.com/) as a reference for i
 
 The list of sources that were used for this project can be found in the following document: https://docs.google.com/document/d/1lYjXIDPFBEjU0kxtx6wmQVTs5M090qV3wGiZ9sDXIsE/edit
 
+The script file contains three functions. 
+
+randomNumberGenerator picks a random number and sets the randomNumber variable's value to it, while createRandomAd runs the aforementioned function first and then, based on the value of the random number, it'll randomly pick one of five ads.
+
+The cancel button event listener, on the other hand, makes it so clicking on the cancel button deletes the job offer ad.
