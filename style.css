@@ -15,7 +15,6 @@ html {
 }
 
 .subscribe-button {
-    padding:20px;
     border-radius:40%;
     border:none;
 }
@@ -27,4 +26,8 @@ html {
 
 .header {
     justify-content:space-between;
+}
+
+.subscribe-button, .header {
+    padding:20px;
 }
