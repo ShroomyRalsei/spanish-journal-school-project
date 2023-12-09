@@ -10,6 +10,10 @@ html {
     display: flex;
 }
 
+.news-box {
+    width:300px;
+}
+
 .header-update-status {
     font-family: 'Times New Roman', Times, serif
 }
