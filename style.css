@@ -40,6 +40,7 @@ body {
     border:5px solid rgba(0,0,0,0.05);
     flex:1 0 auto;
     gap:5px;
+    text-align:center;
 }
 
 .header-update-status, #logo-subtext {
