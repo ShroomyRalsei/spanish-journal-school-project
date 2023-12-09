@@ -21,10 +21,12 @@ html {
 
 .news-box-text p {
     font-size:1.25rem;
+    font-weight:bold;
 }
 
 .topic-subtitle {
     font-size:1rem;
+    font-weight:200;
 }
 
 .news-box img {
