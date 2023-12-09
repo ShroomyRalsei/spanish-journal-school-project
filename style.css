@@ -75,6 +75,7 @@ html {
 .header {
     justify-content: space-between;
     padding: 20px;
+    align-items:center;
 }
 
 ul {
