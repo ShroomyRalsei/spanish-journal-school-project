@@ -6,7 +6,7 @@ html {
     font-size: 48px;
 }
 
-.header, .menu-and-update-container {
+.header, .sections, .menu-and-update-container {
     display: flex;
 }
 
