@@ -42,3 +42,7 @@ ul {
     gap:20px;
     justify-content:center;
 }
+
+.sections li {
+    font-size:1.5em;
+}
