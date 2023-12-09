@@ -10,6 +10,10 @@ body {
     font-size: 48px;
 }
 
+#menu:hover, .subscribe-button:hover {
+    cursor:pointer;
+}
+
 .header, .sections, .random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer {
     display: flex;
 }
