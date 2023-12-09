@@ -18,6 +18,11 @@ html {
     font-family: 'Times New Roman', Times, serif
 }
 
+.news-box img {
+    width:100px;
+    object-fit:cover;
+}
+
 .subscribe-button {
     border-radius: 40%;
     border: none;
