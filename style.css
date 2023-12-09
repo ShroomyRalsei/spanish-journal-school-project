@@ -14,6 +14,10 @@ body {
     display: flex;
 }
 
+.page-footer {
+    justify-content:space-around;
+}
+
 .page-logo {
     width:200px;
     margin-right:100px;
