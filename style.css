@@ -46,3 +46,8 @@ ul {
 .sections li {
     font-size:1.5em;
 }
+
+.sections li a {
+    text-decoration:none;
+    color:black;
+}
