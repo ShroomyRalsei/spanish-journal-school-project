@@ -10,6 +10,10 @@ html {
     display: flex;
 }
 
+.news-box-container {
+    flex-wrap:wrap;
+}
+
 .news-box {
     width:250px;
     height:200px;
