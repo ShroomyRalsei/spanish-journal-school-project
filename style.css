@@ -19,6 +19,14 @@ html {
     font-family: 'Times New Roman', Times, serif
 }
 
+.news-box-text p {
+    font-size:1.25rem;
+}
+
+.topic-subtitle {
+    font-size:1rem;
+}
+
 .news-box img {
     width:100px;
     object-fit:cover;
