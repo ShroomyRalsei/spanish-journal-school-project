@@ -45,6 +45,9 @@ ul {
 
 .sections {
     gap:20px;
+}
+
+.sections, .random-ad-container {
     justify-content:center;
 }
 
