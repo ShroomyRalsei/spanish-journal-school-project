@@ -1,35 +1,35 @@
 html {
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
 #menu {
-    font-size:48px;
+    font-size: 48px;
 }
 
 .header, .menu-and-update-container {
-    display:flex;
+    display: flex;
 }
 
 .header-update-status {
-    font-family:'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif
 }
 
 .subscribe-button {
-    border-radius:40%;
-    border:none;
+    border-radius: 40%;
+    border: none;
 }
 
 .menu-and-update-container {
-    align-items:center;
-    gap:20px;
+    align-items: center;
+    gap: 20px;
 }
 
 .header {
-    justify-content:space-between;
+    justify-content: space-between;
 }
 
 .subscribe-button, .header {
-    padding:20px;
+    padding: 20px;
 }
 
 ul {
