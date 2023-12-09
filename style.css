@@ -6,7 +6,7 @@ html {
     font-size: 48px;
 }
 
-.header, .sections, .random-ad-container, .menu-and-update-container {
+.header, .sections, .random-ad-container, .menu-and-update-container, .news-box-container, .news-box {
     display: flex;
 }
 
