@@ -6,6 +6,10 @@ html {
     font-size:48px;
 }
 
+.header, .menu-and-update-container {
+    display:flex;
+}
+
 .header-update-status {
     font-family:'Times New Roman', Times, serif
 }
@@ -17,7 +21,6 @@ html {
 }
 
 .menu-and-update-container {
-    display:flex;
     align-items:center;
     gap:20px;
 }
