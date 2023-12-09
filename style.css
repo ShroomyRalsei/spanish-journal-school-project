@@ -24,8 +24,13 @@ html {
     gap: 20px;
 }
 
-.random-ad-container {
+.page-body {
     width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.random-ad-container {
     margin:10px auto;
 }
 
