@@ -50,6 +50,10 @@ body {
     margin:0;
 }
 
+.footer-lists {
+    gap:40px;
+}
+
 .footer-info p, .topic-subtitle {
     font-family:Arial, Helvetica, sans-serif;
 }
