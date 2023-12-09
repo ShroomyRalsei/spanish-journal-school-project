@@ -10,6 +10,11 @@ html {
     display: flex;
 }
 
+.page-logo {
+    width:200px;
+    margin-right:100px;
+}
+
 .news-box-container {
     flex-wrap:wrap;
 }
