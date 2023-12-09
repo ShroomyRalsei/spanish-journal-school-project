@@ -24,6 +24,10 @@ html {
     gap: 20px;
 }
 
+.random-ad-container {
+    width:80%;
+}
+
 .header {
     justify-content: space-between;
 }
