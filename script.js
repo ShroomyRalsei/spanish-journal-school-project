@@ -1,1 +1,1 @@
-let randomAd = document.getElementById('random-ad-container');
+const randomAd = document.getElementById('random-ad-container');
