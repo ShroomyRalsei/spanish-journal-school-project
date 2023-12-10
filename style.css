@@ -67,7 +67,7 @@ body {
     gap:40px;
 }
 
-.footer-info p, .topic-subtitle, .footer-list-title {
+.footer-info p, .topic-subtitle, .footer-list-title, .opinion-title p{
     font-family:Arial, Helvetica, sans-serif;
 }
 
