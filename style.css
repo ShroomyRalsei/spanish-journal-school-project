@@ -10,7 +10,7 @@ body {
     font-size: 48px;
 }
 
-.opinion-title {
+.opinion-title, .news-body-text {
     flex-direction: column;
     align-items:center;
 }
@@ -19,7 +19,7 @@ body {
     cursor:pointer;
 }
 
-.header, .sections, #phone-ad-container, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer, .opinion-title {
+.header, .sections, #phone-ad-container, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer, .opinion-title, .news-body-text {
     display: flex;
 }
 
