@@ -72,6 +72,9 @@ body {
 
 figure img {
     width:600px;
+}
+
+figure img, .random-ad {
     height:auto;
 }
 
@@ -165,7 +168,6 @@ ul {
 
 .random-ad {
     width:400px;
-    height:auto;
 }
 
 .header {
