@@ -15,7 +15,7 @@ body {
     height:auto;
 }
 
-.job-offer-content {
+.job-offer-content, #job-offer {
     margin-top:20px;
 }
 
