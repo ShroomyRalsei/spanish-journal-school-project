@@ -21,7 +21,6 @@ body {
 
 .opinion-title, .news-body-text, figure {
     flex-direction: column;
-    align-items:center;
 }
 
 #menu:hover, .subscribe-button:hover {
@@ -127,8 +126,11 @@ figure img, .random-ad {
 }
 
 .menu-and-update-container {
-    align-items: center;
     gap: 20px;
+}
+
+.menu-and-update-container, .header, .opinion-title, .news-body-text, figure, .job-offer-content, .job-offer-text {
+    align-items:center;
 }
 
 .page-body {
@@ -147,7 +149,6 @@ figure img, .random-ad {
 .header {
     justify-content: space-between;
     padding: 20px;
-    align-items:center;
 }
 
 ul {
