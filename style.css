@@ -91,6 +91,11 @@ body {
     margin-right:auto;
 }
 
+#joseph-face {
+    width:100px;
+    border-radius:50%;
+}
+
 #phone-ad-container, #random-ad-container {
     margin:10px auto;
 }
