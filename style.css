@@ -36,6 +36,10 @@ body {
     list-style-type:square;
 }
 
+.job-details ul li {
+    margin:5px 0;
+}
+
 .page-footer {
     justify-content:space-evenly;
     margin-top:30px;
