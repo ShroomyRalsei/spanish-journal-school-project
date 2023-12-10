@@ -1,0 +1,1 @@
+let randomAd = document.getElementById('random-ad-container');
