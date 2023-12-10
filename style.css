@@ -51,6 +51,10 @@ body {
     font-family: 'Times New Roman', Times, serif
 }
 
+.topic-subtitle, .news-update-status {
+    font-weight:200;
+}
+
 .news-box-text p {
     font-size:1.25rem;
     font-weight:bold;
@@ -59,7 +63,6 @@ body {
 
 .topic-subtitle {
     font-size:1rem;
-    font-weight:200;
     margin:0;
 }
 
