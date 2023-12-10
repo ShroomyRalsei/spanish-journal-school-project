@@ -1,6 +1,9 @@
 const randomAd = document.getElementById('random-ad-container');
 
+let randomNumber = 0;
+
 function randomNumberGenerator() {
-    const randomNumber = Math.random();
-    return;
+    const randomNumberResult = Math.random();
+    randomNumber = randomNumberResult;
+    return
 };
