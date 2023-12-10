@@ -161,3 +161,7 @@ ul {
 .news-box, .section-name {
     text-align:center;
 }
+
+.news-title {
+    margin-bottom:5px;
+}
