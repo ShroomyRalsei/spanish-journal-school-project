@@ -15,7 +15,7 @@ body {
     height:auto;
 }
 
-.job-offer-content, #job-offer {
+#job-offer {
     margin-top:20px;
 }
 
@@ -45,7 +45,7 @@ body {
     padding:20px 0;
 }
 
-.page-footer, #job-offer {
+.page-footer, #job-offer div {
     background-color: white;
 }
 
