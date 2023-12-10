@@ -42,8 +42,11 @@ body {
 .page-footer {
     justify-content:space-evenly;
     margin-top:30px;
-    background-color: white;
     padding:20px 0;
+}
+
+.page-footer, #job-offer {
+    background-color: white;
 }
 
 .page-logo {
