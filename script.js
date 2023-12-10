@@ -4,8 +4,6 @@ const cancelButton = document.getElementById('cancel-button');
 
 const jobOffer = document.getElementById('job-offer');
 
-cancelButton.addEventListener('click', () => jobOffer.innerHTML = '');
-
 let randomNumber = 0;
 
 function randomNumberGenerator() {
@@ -34,3 +32,4 @@ function createRandomAd() {
 };
 
 createRandomAd();
+cancelButton.addEventListener('click', () => jobOffer.innerHTML = '');
