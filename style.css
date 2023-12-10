@@ -10,6 +10,11 @@ body {
     font-size: 48px;
 }
 
+.job-offer-logo img {
+    width:300px;
+    height:auto;
+}
+
 .opinion-title, .news-body-text, figure {
     flex-direction: column;
     align-items:center;
