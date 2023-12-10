@@ -148,6 +148,9 @@ figure img, .random-ad {
 
 .header {
     justify-content: space-between;
+}
+
+.header, #job-offer {
     padding: 20px;
 }
 
