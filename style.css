@@ -28,7 +28,7 @@ body {
     cursor:pointer;
 }
 
-.header, .sections, #phone-ad-container, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer, .opinion-title, .news-body-text, figure, .job-offer-content {
+.header, .sections, #phone-ad-container, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer, .opinion-title, .news-body-text, figure, .job-offer-content, .job-offer-text {
     display: flex;
 }
 
