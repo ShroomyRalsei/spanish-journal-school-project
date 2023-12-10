@@ -66,9 +66,12 @@ body {
 }
 
 .news-box-text p {
-    font-size:1.25rem;
     font-weight:bold;
     margin:2px 0 0;
+}
+
+.news-body-text p, .news-box-text p {
+    font-size:1.25rem;
 }
 
 .topic-subtitle {
