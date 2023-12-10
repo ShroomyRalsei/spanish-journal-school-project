@@ -1,5 +1,11 @@
 const randomAd = document.getElementById('random-ad-container');
 
+const cancelButton = document.getElementById('cancel-button');
+
+const jobOffer = document.getElementById('job-offer');
+
+cancelButton.addEventListener('click', () => jobOffer.innerHTML = '');
+
 let randomNumber = 0;
 
 function randomNumberGenerator() {
@@ -7,8 +13,6 @@ function randomNumberGenerator() {
     randomNumber = randomNumberResult;
     return
 };
-
-
 
 function createRandomAd() {
     randomNumberGenerator();
