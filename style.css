@@ -14,7 +14,7 @@ body {
     cursor:pointer;
 }
 
-.header, .sections, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer {
+.header, .sections, #phone-ad-container, #random-ad-container, .menu-and-update-container, .news-box-container, .news-box, .footer-lists, .page-footer {
     display: flex;
 }
 
@@ -91,7 +91,7 @@ body {
     margin-right:auto;
 }
 
-#random-ad-container {
+#phone-ad-container, #random-ad-container {
     margin:10px auto;
 }
 
@@ -112,7 +112,7 @@ ul {
     margin:10px 0;
 }
 
-.sections, #random-ad-container {
+.sections, #random-ad-container, #phone-ad-container {
     justify-content:center;
 }
 
