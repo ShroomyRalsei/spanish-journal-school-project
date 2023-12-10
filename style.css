@@ -104,7 +104,7 @@ figure img, .random-ad {
     margin:0;
 }
 
-.footer-lists {
+.footer-lists, .job-offer-content, .job-offer-text {
     gap:40px;
 }
 
